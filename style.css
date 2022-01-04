@@ -53,12 +53,12 @@ h1{
 }
 #web-dev-exp{
     border-left: 7px solid;
-    border-image: linear-gradient(blue cyan);
+    border-image: linear-gradient(blue,cyan);
      border-image-slice: 1;
 }
 #Re-exp{
     border-left: 7px solid;
-    border-image: linear-gradient(red green);
+    border-image: linear-gradient(red,green);
     border-image-slice: 1;
      
 }
